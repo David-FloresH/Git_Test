@@ -16,7 +16,7 @@ function Square(props) {
     </button >
   );
 }
-
+console.log("test modiciation");
 class Board extends React.Component {
 
   isWinnerSquare(position) {
